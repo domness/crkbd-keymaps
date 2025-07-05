@@ -20,4 +20,4 @@ Fairly lightweight keyboard configuration with the Corne v3 (Helidox).
 
 ## Layer 3
 
-![layer 2 image](layer_2.png)
+![layer 2 image](layer_3.png)
