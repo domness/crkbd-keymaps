@@ -2,9 +2,10 @@
 
 Fairly lightweight keyboard configuration with the Corne v3 (Helidox).
 
-## Quick Links
+## Links
 
 - [VIA](https://www.usevia.app/)
+- [Mechboards](https://mechboards.co.uk)
 
 ## Layer 0 - Base
 
