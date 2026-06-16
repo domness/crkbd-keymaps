@@ -4,7 +4,7 @@ Fairly lightweight keyboard configuration with the Corne v4.
 
 ## Links
 
-- [VIA](https://www.usevia.app/)
+- [Vial](https://vial.rocks/)
 
 ## Layer 0 - Base
 
